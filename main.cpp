@@ -9,5 +9,11 @@ int main(){
     for (int i = 0; i < 1000; i++) printf("%d ", mas[i]);
     printf("\n");
     printf("BLABLA");
+    printf("BLABLA");
+    printf("BLABLA");
+    printf("BLABLA");
+    printf("BLABLA");
+    printf("BLABLA");
+    printf("BLABLA");
     return 0;
 }
